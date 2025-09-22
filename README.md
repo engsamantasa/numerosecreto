@@ -4,7 +4,8 @@
 
 # Olá, Bem vindo ao meu projeto do Jogo do Número Secreto.
 
-[COLOCAR FUTURA IMAGEM DO PROJETO]
+<img width="1899" height="897" alt="image" src="https://github.com/user-attachments/assets/7d36a5ac-db20-44cf-a636-f63f757e8478" />
+
 
 ## Ferramentas utilizadas:
 
@@ -17,7 +18,7 @@
 
 
 
-### Link de acesso: [COLOCAR FUTURO LINK DE ACESSO]
+### Link de acesso: https://numero-secreto-mu-gold.vercel.app/
 
 ## Feito por:
 
